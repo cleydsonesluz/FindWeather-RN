@@ -1,1 +1,1 @@
-export { Generic } from './Generic';
+export { Generic } from './Generic/Generic';

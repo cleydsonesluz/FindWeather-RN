@@ -1,5 +1,5 @@
 import React from "react";
-import { Generic } from "../../components";
+import { Generic } from "../../components/templates";
 import { colors } from "../../theme/colors";
 
 export function OnboardingScreen() {

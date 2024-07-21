@@ -1,4 +1,4 @@
-export { AtomText } from './Text';
-export { AtomImage } from './Image';
-export { AtomButton } from './Button';
-export { TextButton } from './TextButton';
+export { AtomText } from './Text/AtomText';
+export { AtomImage } from './Image/AtomImage';
+export { AtomButton } from './Button/AtomButton';
+export { TextButton } from './TextButton/TextButton';

@@ -1,1 +1,1 @@
-export {TextTypes} from "./TextTypes";
+export {TextTypes} from "./TextTypes/TextTypes";
